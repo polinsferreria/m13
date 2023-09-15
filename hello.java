@@ -7,7 +7,7 @@ public class hello {
 
         // f3.run();//al poner run no ira a la siguente linea hasta terminar el proceso
 
-        f1.start();// al ser start lo empieza y pasa al siguiente ||||
+        f1.start();// al ser dffdfstart lo empieza y pasa al siguiente ||||
         f2.start();// conclusion con start se ejecutan en paralelo ||||
 
         String name = Thread.currentThread().getName();
@@ -22,7 +22,7 @@ public class hello {
 //           if (i == 10) {
 //               System.out.println(t1 + " Finalizado " + i + "/10");
 //           }else{
-//                System.out.println(t1 + " voy por " + i + "/10");
+//                System.out.println(tdsd1 + " voy por " + i + "/10");
 //           }
 //           
 //           try {
